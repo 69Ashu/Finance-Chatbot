@@ -27,6 +27,7 @@ It was trained using OpenAI API and the dataset was generated using wikipedia ar
 
 ## Usage
 - The chat-bot can be accessing using the **generate_responses** function present in the end of the **main-chatbot.ipynb** notebook.
+- Kindly use the API key carefully to avoid any errors.
 
 ## Challenges
 - First challenge faced was less amount of tokens available, due to which I was unable to train **'curie'** and **'davinci'**
